@@ -1,0 +1,24 @@
+.splav-section{
+    width:100%;
+    height: auto;
+    overflow: hidden;
+    background:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.splav-description{
+    display:flex;
+    
+}
+
+.splav-description-right{
+    text-align: right;
+}
+
+.splav-text{
+    color:yellow;
+    padding-left:30px;
+    line-height: 1.7;
+}
